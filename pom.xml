@@ -99,8 +99,6 @@
       <artifactId>lifecycle-common</artifactId>
       <version>2.4.0</version>
     </dependency>
-  </dependencies>
-  <dependencies>
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
@@ -313,4 +311,5 @@
       <scope>runtime</scope>
     </dependency>
   </dependencies>
+
 </project>
